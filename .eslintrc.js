@@ -1,7 +1,11 @@
 module.exports = {
-  "extends": "airbnb",
-  "plugins": ["prettier"],
+  "extends": ["airbnb", "plugin:prettier/recommended"],
   "rules": {
-    "prettier/prettier": "error"
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
+  },
+  "settings": {
+    "import/resolver": {
+      "babel-module": {}
+    }
   }
 };
