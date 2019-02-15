@@ -1,7 +1,9 @@
 import React from "react";
-import { View, Text, StyleSheet } from "react-native";
+import { View, Text, StyleSheet, Image } from "react-native";
 import { AntDesign } from "@expo/vector-icons"; /* eslint-disable-line import/no-extraneous-dependencies */
 import PropTypes from "prop-types";
+
+import logo from "assets/logo.png";
 
 const styles = StyleSheet.create({
   container: {
@@ -31,7 +33,7 @@ TabBarIcon.defaultProps = {
 
 HomeScreen.navigationOptions = {
   tabBarIcon: TabBarIcon,
-  title: "Home"
+  headerTitle: <Image source={logo} />
 };
 
 export default HomeScreen;
