@@ -1,8 +1,4 @@
-import React, { Component } from "react";
-import Home from "views/Home"
+import React from "react";
+import Navigation from "app/components/Navigation";
 
-export default class App extends Component {
-  render() {
-    return <Home />;
-  }
-}
+export default () => <Navigation />;
