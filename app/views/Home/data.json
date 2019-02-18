@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Renault Mode 1.2-16V Dynamique Luxe",
+    "price": 2950,
+    "dateOfAdmission": "January 28, 2005",
+    "distanceTravevlled": 102538,
+    "image": "https://cdn.autotrack.nl/43656547/0-696a49a6-611c-40b4-be3e-8f7ec2476535.jpg?w=320"
+  },
+  {
+    "name": "Skoda Octavia Combi 1.6 TDI Greenline",
+    "price": 9750,
+    "dateOfAdmission": "September 22, 2014",
+    "distanceTravevlled": 131344,
+    "image": "https://cdn.autotrack.nl/43656541/0-cb0e868c-a5b5-4bd8-95e4-76f7ca684e67.jpg?h=320"
+  },
+  {
+    "name": "Audi A5 Sportback 2.0 TFSI quattro S Edition",
+    "price": 21950,
+    "dateOfAdmission": "1 August 2013",
+    "distanceTravevlled": 127781,
+    "image": "https://cdn.autotrack.nl/43656540/0-efe9dcbb-47cc-4e25-addd-d512af915e2c.jpg?h=320"
+  },
+  {
+    "name": "Citroën C4 Cactus e-THP 110hp",
+    "price": 18885,
+    "dateOfAdmission": "January 28, 2005",
+    "distanceTravevlled": 26778,
+    "image": "https://cdn.autotrack.nl/43656534/0-593d89a6-2b29-4e8e-a887-6b946f7f4fc3.jpg?h=320"
+  },
+  {
+    "name": "Volkswagen Passat Variant 1.4 TSI",
+    "price": 14950,
+    "dateOfAdmission": "26 March 2013",
+    "distanceTravevlled": 85201,
+    "image": "https://cdn.autotrack.nl/43656532/0-e6f341e5-8945-4de3-8d85-d4e3adf437e7.jpg?h=320"
+  },
+  {
+    "name": "Volvo V70 2.0D Limited Edition",
+    "price": 6995,
+    "dateOfAdmission": "June 15, 2009",
+    "distanceTravevlled": 277243,
+    "image": "https://cdn.autotrack.nl/43656525/0-97415044-8e7b-40aa-bfa5-1950bc9616bf.jpg?h=320"
+  },
+  {
+    "name": "Hyundai i30 Wagon 1.4 T-GDI Comfort",
+    "price": 21930,
+    "dateOfAdmission": "January 12, 2018",
+    "distanceTravevlled": 10341,
+    "image": "https://cdn.autotrack.nl/43656510/0-abc28b47-2433-4d8d-89d0-8af177431a8f.jpg?h=320"
+  }
+]
